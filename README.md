@@ -1,2 +1,5 @@
-# go-pkg
-go公共组件库
+# cli-tool
+go写的命令行小工具
+```
+cli-tool help
+```
