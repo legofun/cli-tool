@@ -1,4 +1,4 @@
-module cli-tool
+module github.com/legofun/cli-tool
 
 go 1.14
 
